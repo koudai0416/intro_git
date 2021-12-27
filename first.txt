@@ -4,3 +4,4 @@ Git add
 Git commit
 gitrm
 git status
+git diff
